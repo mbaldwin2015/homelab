@@ -6,7 +6,7 @@ A virtualized small-business IT environment running on a single Linux host via V
 
 🚧 **In progress.** Building this in phases as part of the CompTIA Network+ exam preparation and an IT skills refresh. See `/phases/` for week-by-week documentation as the lab comes online.
 
-**Phase 1 (Foundation): complete.** Phase 2 (Active Directory): in progress.
+**Phase 4 (SMTP relay): complete.**
 
 ## Architecture (target state)
 
@@ -20,8 +20,8 @@ A virtualized small-business IT environment running on a single Linux host via V
 ## Repo layout
 
 - `/docs/` — architecture, IP plan, network diagrams, design rationale
-- `/configs/` — sanitized configurations from each component
 - `/phases/` — week-by-week build documentation
+- `/scripts/` — any scripts created alongside the phases
 
 ## What this demonstrates
 
@@ -33,4 +33,4 @@ Returning to IT after a career gap. This lab is both Net+ exam preparation and a
 
 ---
 
-*Last updated: 2026-05-27*
+*Last updated: 06-30-2026*
