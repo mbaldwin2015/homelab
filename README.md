@@ -1,6 +1,6 @@
 # Home Lab: Enterprise Network in VMs
 
-A virtualized small-business IT environment running on a single Linux host via VMware Workstation Pro. Demonstrates network design, Windows Server administration, Active Directory, Microsoft 365 hybrid identity, monitoring, email infrastructure, and documentation discipline.
+A virtualized small-business IT environment running on a single Linux host via VMware Workstation Pro. Demonstrates network design, firewall rules, Windows Server administration, Active Directory, network segmentation, monitoring, email infrastructure, and documentation discipline.
 
 ## Status
 
